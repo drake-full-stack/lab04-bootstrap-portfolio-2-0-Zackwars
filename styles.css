@@ -1,0 +1,7 @@
+:root {
+    --bs-primary: #ORANGE;
+    --bs-secondary: #ORANGE;
+} 
+.custom-navbar {
+    background: linear-gradient(90deg, #720742a6 0%, #a52b2b 100%) !important;
+}
